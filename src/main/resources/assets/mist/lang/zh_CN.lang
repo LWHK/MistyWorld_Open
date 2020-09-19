@@ -15,7 +15,7 @@ tile.mist.stone.name=雾石
 tile.mist.stone_porous.name=多孔雾石
 tile.mist.stone_basic.name=硬雾石
 tile.mist.cobblestone.name=圆石
-tile.mist.cobblestone_moss.name=Mossy Cobblestone
+tile.mist.cobblestone_moss.name=雾苔圆石
 tile.mist.gravel.name=沙砾
 tile.mist.sand.name=沙子
 tile.mist.red_sand.name=红沙
@@ -37,15 +37,15 @@ tile.mist.gold_ore.name=金矿
 tile.mist.niobium_ore.name=铌矿
 tile.mist.niobium_block.name=铌块
 tile.mist.lapis_block.name=青金石矿石
-tile.mist.sulfur_ore.name=Sulfur Ore
-tile.mist.sulfur_block.name=Sulfur Block
-tile.mist.saltpeter_ore.name=Saltpeter Ore
-tile.mist.saltpeter_block.name=Saltpeter Block
-tile.mist.salt_ore.name=Salt Ore
-tile.mist.tallow_block.name=Tallow Block
-tile.mist.soap_block.name=Soap Block
-tile.mist.latex_block.name=Latex Block
-tile.mist.rubber_block.name=Rubber Block
+tile.mist.sulfur_ore.name=硫磺矿石
+tile.mist.sulfur_block.name=硫磺块
+tile.mist.saltpeter_ore.name=硝石矿石
+tile.mist.saltpeter_block.name=硝石块
+tile.mist.salt_ore.name=盐矿石
+tile.mist.tallow_block.name=油脂块
+tile.mist.soap_block.name=肥皂块
+tile.mist.latex_block.name=胶乳块
+tile.mist.rubber_block.name=橡胶块
 
 ### Dirt
 tile.mist.humus_dirt.name=腐殖土
@@ -69,7 +69,7 @@ tile.mist.acid_grass_0.name=地衣
 tile.mist.acid_grass_1.name=地衣
 tile.mist.acid_grass_2.name=地衣
 tile.mist.mulch_block.name=护根物块
-tile.mist.remains_block.name=Remains
+tile.mist.remains_block.name=残余物
 
 ##### Tooltip --------------------------
 tile.mist.block_wet.tooltip=潮湿的
@@ -113,8 +113,8 @@ tile.mist.t_tree_leaves.name=热带树树叶
 tile.mist.t_tree_trunk.name=活热带树
 tile.mist.willow_leaves.name=垂枝树树叶
 tile.mist.willow_trunk.name=活垂枝树
-tile.mist.r_tree_leaves.name=Rubber Tree Leaves
-tile.mist.r_tree_trunk.name=Live Rubber Tree
+tile.mist.r_tree_leaves.name=橡胶树叶
+tile.mist.r_tree_trunk.name=活橡胶树
 tile.mist.live_tree.tooltip=手持斧头右键以改变树干的厚度
 
 ### Sapling
@@ -130,7 +130,7 @@ tile.mist.spruce_sapling.name=多刺木树苗
 tile.mist.s_tree_sapling.name=石木树苗
 tile.mist.t_tree_sapling.name=热带树树苗
 tile.mist.willow_sapling.name=垂枝树树苗
-tile.mist.r_tree_sapling.name=Rubber Tree Sapling
+tile.mist.r_tree_sapling.name=橡胶树苗
 
 ### Wood Blocks
 tile.mist.acacia_log.name=雨伞树木
@@ -217,17 +217,17 @@ tile.mist.willow_log_d.name=脱皮垂枝树木
 tile.mist.willow_log_n.name=垂枝树树结
 tile.mist.willow_log_nd.name=脱皮垂枝树树结
 tile.mist.willow_planks.name=垂枝树木板
-tile.mist.r_tree_log.name=Rubber Tree Wood
-tile.mist.r_tree_log_b.name=Rubber Tree Wood
-tile.mist.r_tree_log_c.name=Carved Rubber Tree
-tile.mist.r_tree_log_d.name=Stripped Rubber Tree
-tile.mist.r_tree_log_n.name=Rubber Tree Node
-tile.mist.r_tree_log_nd.name=Stripped Rubber Tree Node
-tile.mist.r_tree_planks.name=Rubber Tree Planks
+tile.mist.r_tree_log.name=橡胶木
+tile.mist.r_tree_log_b.name=橡胶木
+tile.mist.r_tree_log_c.name=雕纹橡胶树
+tile.mist.r_tree_log_d.name=去皮橡胶树
+tile.mist.r_tree_log_n.name=橡胶树树结
+tile.mist.r_tree_log_nd.name=去皮橡胶树树结
+tile.mist.r_tree_planks.name=橡胶木板
 
 ### Step
 tile.mist.cobblestone_step.name=圆石梁
-tile.mist.cobblestone_moss_step.name=Mossy Cobblestone Step
+tile.mist.cobblestone_moss_step.name=雾苔圆石梁
 tile.mist.acacia_step.name=雨伞树木梁
 tile.mist.aspen_step.name=颤动树木梁
 tile.mist.a_tree_step.name=南洋杉木梁
@@ -240,11 +240,11 @@ tile.mist.spruce_step.name=多刺木梁
 tile.mist.s_tree_step.name=石木梁
 tile.mist.t_tree_step.name=热带树木梁
 tile.mist.willow_step.name=垂枝树木梁
-tile.mist.r_tree_step.name=Rubber Tree Timber
+tile.mist.r_tree_step.name=橡胶树木梁
 
 ### Slab
 tile.mist.cobblestone_slab.name=圆石台阶
-tile.mist.cobblestone_moss_slab.name=Mossy Cobblestone Slab
+tile.mist.cobblestone_moss_slab.name=雾苔圆石台阶
 tile.mist.acacia_slab.name=雨伞树木台阶
 tile.mist.aspen_slab.name=颤动树台阶
 tile.mist.a_tree_slab.name=南洋杉台阶
@@ -257,11 +257,11 @@ tile.mist.spruce_slab.name=多刺木台阶
 tile.mist.s_tree_slab.name=石木台阶
 tile.mist.t_tree_slab.name=热带树台阶
 tile.mist.willow_slab.name=垂枝树台阶
-tile.mist.r_tree_slab.name=Rubber Tree Slab
+tile.mist.r_tree_slab.name=橡胶树 Slab
 
 ### Stairs
 tile.mist.cobblestone_stairs.name=圆石楼梯
-tile.mist.cobblestone_moss_stairs.name=Mossy Cobblestone Stairs
+tile.mist.cobblestone_moss_stairs.name=雾苔圆石楼梯
 tile.mist.acacia_stairs.name=雨伞树楼梯
 tile.mist.aspen_stairs.name=颤动树楼梯
 tile.mist.a_tree_stairs.name=南洋杉楼梯
@@ -274,7 +274,7 @@ tile.mist.spruce_stairs.name=多刺木楼梯
 tile.mist.s_tree_stairs.name=石木楼梯
 tile.mist.t_tree_stairs.name=热带树楼梯
 tile.mist.willow_stairs.name=垂枝树楼梯
-tile.mist.r_tree_stairs.name=Rubber Tree Stairs
+tile.mist.r_tree_stairs.name=橡胶树楼梯
 
 ### Branch
 tile.mist.acacia_branch_4.name=雨伞树枝
@@ -325,10 +325,10 @@ tile.mist.willow_branch_4.name=垂枝树树枝
 tile.mist.willow_branch_4_d.name=脱皮垂枝树树枝
 tile.mist.willow_branch_8.name=垂枝树树干
 tile.mist.willow_branch_8_d.name=脱皮垂枝树树干
-tile.mist.r_tree_branch_4.name=Rubber Tree Branch
-tile.mist.r_tree_branch_4_d.name=Stripped Rubber Tree Branch
-tile.mist.r_tree_branch_8.name=Rubber Tree Trunk
-tile.mist.r_tree_branch_8_d.name=Stripped Rubber Tree Trunk
+tile.mist.r_tree_branch_4.name=橡胶树 Branch
+tile.mist.r_tree_branch_4_d.name=Stripped 橡胶树 Branch
+tile.mist.r_tree_branch_8.name=橡胶树 Trunk
+tile.mist.r_tree_branch_8_d.name=Stripped 橡胶树 Trunk
 
 ### Upper Plants
 tile.mist.mushroom_brown.name=棕色蘑菇
@@ -410,12 +410,12 @@ item.mist.sponge_slime.name=毒素提取物
 item.mist.sponge_spore.name=雾朦海绵孢子
 item.mist.filter_coal.name=过滤煤
 item.mist.bio_shale.name=带菌页岩
-item.mist.sulfur.name=Sulfur
-item.mist.saltpeter.name=Saltpeter
+item.mist.sulfur.name=硫磺
+item.mist.saltpeter.name=硝石
 item.mist.niobium_ingot.name=铌锭
 item.mist.niobium_nugget.name=铌粒
 item.mist.mulch.name=护根物
-item.mist.remains.name=Remains
+item.mist.remains.name=残留物
 item.mist.ash.name=灰烬
 item.mist.tallow.name=Tallow
 item.mist.soap.name=Soap
